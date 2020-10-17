@@ -1,2 +1,6 @@
 file6 is nice file.
+<<<<<<< Updated upstream
 its not nice.
+=======
+pakistan turkey zindabad
+>>>>>>> Stashed changes

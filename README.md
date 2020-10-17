@@ -30,12 +30,12 @@ This sit was built using [Git Hub Pages](https://pages.github.com/)
 
 How many provinces are there?
 There are 4 provinces:
-_ First Nested List Item
-_ Second Nested List Item
+- First Nested List Item
+- Second Nested List Item
 
 
 
 Here is a check mark list
--[x] completed
--[] 
--[]
+- [x] completed
+- [] 
+- []
